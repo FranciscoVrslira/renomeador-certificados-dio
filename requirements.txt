@@ -1,0 +1,4 @@
+PyMuPDF>=1.26.5,<2
+pytesseract==0.3.13
+Pillow>=12,<14
+python-dotenv>=1.2,<2
